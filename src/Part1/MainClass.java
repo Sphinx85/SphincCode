@@ -1,4 +1,4 @@
-package PartOne;
+package Part1;
 
 public class MainClass {
 

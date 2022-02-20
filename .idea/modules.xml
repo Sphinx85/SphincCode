@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SphincCode.iml" filepath="$PROJECT_DIR$/SphincCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SphinxCode.iml" filepath="$PROJECT_DIR$/SphinxCode.iml" />
     </modules>
   </component>
 </project>
